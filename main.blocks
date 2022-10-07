@@ -1,13 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="Y%[?4%^:is?.fJUyy(?." x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="_;D10rjn7ml[@=YOtcnV"><field name="LEDS">`
-        . . # . . 
-        # # # # # 
-        . # # # . 
-        . # # # . 
-        # . . . #
-        `</field><next><block type="device_show_leds" id="?iEaO.{7Q-Hv$ioDap3]"><field name="LEDS">`
-        # . . . # 
-        # . # . # 
-        . # # # . 
-        . . # . . 
-        . # . # .
-        `</field></block></next></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="Y%[?4%^:is?.fJUyy(?." x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="w}1o_ee[|`($lZF@pE/j"><value name="number"><shadow type="math_number" id="r|7JR,JSX(QxNtF40p2s"><field name="NUM">1</field></shadow></value><next><block type="device_show_number" id="eHf$sQC2.[qyHhCMwZd0"><value name="number"><shadow type="math_number" id="wRtsEA0J77xT;cmh4Y0("><field name="NUM">2</field></shadow></value><next><block type="device_show_number" id="q$1w/sw+q?$]jnQ#]abW"><value name="number"><shadow type="math_number" id="6lDfy}0#FfWXf2Q])bxZ"><field name="NUM">3</field></shadow></value><next><block type="device_show_number" id=";Iw`.xePvoeGcfte#xK{"><value name="number"><shadow type="math_number" id="RL|v?AlN?o{Lmit.t2XS"><field name="NUM">4</field></shadow></value><next><block type="device_show_number" id=".n~QHLDtJLS-VcrSQYN`"><value name="number"><shadow type="math_number" id="gzyiPCE]BO%M+aHtNbyT"><field name="NUM">5</field></shadow></value><next><block type="device_show_number" id="eZZ[=5[1y!o[MlLE3V!-"><value name="number"><shadow type="math_number" id="S=yct4?dM,Tcp:#Yh@bR"><field name="NUM">6</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
